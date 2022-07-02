@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm Brendon (bredbk) Lima, currently studying information systems and finding out which technologies I have an affinity for 
+### I'm Brendon (bredbk) Lima, currently studying information systems and finding out which technologies I have an affinity for 
 
 <!--
 **bredbk/bredbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
