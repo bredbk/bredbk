@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bredbk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bredbk-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angular-original.svg">
+  <img align="center" alt="Bredbk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bredbk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bredbk&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
