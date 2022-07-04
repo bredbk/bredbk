@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### I'm Brendon (bredbk) Lima, currently studying information systems and finding out which technologies I have an affinity for 
+### I'm Brendon (bredbk) Lima, currently studying Computer Information Systems at IFBA and finding out which technologies I have an affinity for.
+
+### Oi meu nome é Brendon (Bredbk) Lima, atualmente estou cursando Sistemas de Informação no IFBA e tentando descobrir qual tecnologia tenho mais afinidade.
 
 <!--
 **bredbk/bredbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
