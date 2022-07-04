@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bredbk&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bredbk" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -39,5 +37,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg
 <a href="https://www.instagram.com/brendon.s.lima/" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC3vOY_rgEPnAa4fSCEcSgHA" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
  <a href="https://discord.com/channels/bredbk#7106" target="_blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" alt="" height="30" width="40" /></a>
+  <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ icons link -->
 </p>
+
 
