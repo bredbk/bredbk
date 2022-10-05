@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there wave<br>I'm Brendon (bredbk) Lima, currently studying Computer Information Systems at IFBA and finding out which technologies I have an affinity for.<br>Oi meu nome é Brendon (bredbk) Lima, atualmente estou cursando Sistemas de Informação no IFBA e tentando descobrir qual tecnologia tenho mais afinidade.
+Hi there <br>I'm Brendon (bredbk) Lima, currently studying Computer Information Systems at IFBA and finding out which technologies I have an affinity for.<br>Oi meu nome é Brendon (bredbk) Lima, atualmente estou cursando Sistemas de Informação no IFBA e tentando descobrir qual tecnologia tenho mais afinidade.
 
 
 ## 🌐 Socials:
